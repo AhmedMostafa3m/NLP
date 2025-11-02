@@ -1,1 +1,1 @@
-https://github.com/AhmedMostafa3m/NLP/blob/b0a13b8549fc256b5d9dd669393d9e821950a993/multi_tool_openai_API_app_with_generating_image_and_voice/Screenshot%202025-11-01%20155433.png
+![tape image](https://github.com/AhmedMostafa3m/NLP/blob/b0a13b8549fc256b5d9dd669393d9e821950a993/multi_tool_openai_API_app_with_generating_image_and_voice/Screenshot%202025-11-01%20155433.png)
