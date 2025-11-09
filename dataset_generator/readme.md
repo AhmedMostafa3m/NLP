@@ -1,4 +1,5 @@
-![tape image]https://github.com/AhmedMostafa3m/NLP/blob/96e9fb5970ae673f9e056bc537f284c631934f88/dataset_generator/egypt_dataset%20-%20Trim.mp4
+![Watch the video][https://github.com/AhmedMostafa3m/NLP/blob/96e9fb5970ae673f9e056bc537f284c631934f88/dataset_generator/egypt_dataset%20-%20Trim.mp4](https://www.linkedin.com/posts/%D9%90%D9%90ahmed-mostafa-68324a243_ai-llm-llama-activity-7393161950693601280-fwuF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxe00MBmExbP2RyR1Slpyldh6R9ZvpJYLY)
+
 🚀 Building a Smart Dataset Generator with LLaMA and Gradio!
 
 I recently worked on a mini-project that combines the power of Meta’s LLaMA 3.2–1B Instruct, quantization with BitsAndBytes, and an interactive Gradio interface — all to generate educational datasets automatically.
