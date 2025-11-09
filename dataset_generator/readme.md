@@ -17,6 +17,7 @@ Here’s the core logic behind it 👇
 (simplified for readability)
 
 # Load quantized LLaMA model
+```
 def load_model(model_name):
     quant_config = BitsAndBytesConfig(
         load_in_4bit=True,
@@ -30,7 +31,7 @@ def load_model(model_name):
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokenizer.pad_token = tokenizer.eos_token
     return model, tokenizer
-
+```
 
 Using this setup, the app dynamically generates custom datasets — in this case, I used the topic “Talking to foreigners about Ancient Egyptian monuments.”
 Users can interact directly through a Gradio UI to produce educational, culturally rich datasets.
